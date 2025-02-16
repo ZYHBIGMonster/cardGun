@@ -1,15 +1,15 @@
 [Root]
-ProjectDisplayName=TheCardGunDuel
-ProjectDescription=TheCardGunDuel
-ProjectName=TheCardGunDuel
-ProjectTrueName=68E42C935141628F6EB62EADEA5565011CEDF75AC4B78E9725FBBA25BD589697
-ProjectShortPath=/TheCardGunDuel/
-StartMapName=/TheCardGunDuel/UGCmap
+ProjectDisplayName=cardGun
+ProjectDescription=cardGun
+ProjectName=cardGun
+ProjectTrueName=6346134D61DBE8481DCF0143E1E88111423EC1D240FFA85595036661825B24D6
+ProjectShortPath=/cardGun/
+StartMapName=/cardGun/UGCmap
 MapMode=0
 bIsBigWorld=0
-Version=1.30.21.13236
+Version=1.30.21.13238
 UpdateVersion=5
-GameModePath=/TheCardGunDuel/Asset/Blueprint/UGCGameMode.UGCGameMode_C
+GameModePath=/cardGun/Asset/Blueprint/UGCGameMode.UGCGameMode_C
 DefaultLevelDirectorPath=/Asset/Blueprint/UGCLevelDirector.UGCLevelDirector_C
 
 [MatchSetting]

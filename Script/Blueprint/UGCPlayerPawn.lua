@@ -9,6 +9,7 @@ end
 
 function UGCPlayerPawn:ReceiveBeginPlay()
     UGCPlayerPawn.SuperClass.ReceiveBeginPlay(self)
+    self.bVaultIsOpen = true
 end
 
 function UGCPlayerPawn:ReceiveTick(DeltaTime)
